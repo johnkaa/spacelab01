@@ -1,0 +1,50 @@
+{
+  "Banners" : {
+    "mainBanner" : {
+      "img" : "https://via.placeholder.com/350x302",
+      "select" : 0
+    },
+    "mainSales" : [ {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    } ],
+    "mainTop" : [ {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    }, {
+      "imgUrl" : "https://via.placeholder.com/150x100",
+      "text" : "",
+      "url" : ""
+    } ]
+  }
+}
